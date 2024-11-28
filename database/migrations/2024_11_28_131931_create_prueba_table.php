@@ -14,7 +14,8 @@ return new class extends Migration
         Schema::create('prueba', function (Blueprint $table) {
             $table->id();
             $table->string('nombre');
-            $table->text('descripcion');
+            
+
             $table->timestamps();
         });
     }
@@ -27,3 +28,8 @@ return new class extends Migration
         Schema::dropIfExists('prueba');
     }
 };
+
+/**
+ * (2 )base de datos 
+ * 
+*/

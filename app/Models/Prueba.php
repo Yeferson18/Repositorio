@@ -15,3 +15,10 @@ class Prueba extends Model
     // Los campos que se pueden asignar masivamente
     protected $fillable = ['nombre', 'descripcion'];
 }
+
+
+/**(3)
+ * 
+ * creo los modelos en este caso solo uno 
+ * 
+*/

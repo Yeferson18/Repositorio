@@ -20,3 +20,5 @@
     </form>
 </body>
 </html>
+
+<!--( 2) despues agrego carpeta con todo lo adetras con su carpeta y los modulos index y edit y show y create : -->

@@ -74,3 +74,8 @@ class PruebaController extends Controller
         return redirect()->route('prueba.index');
     }
 }
+
+/**
+ * (1) primero creo controlador con su logica index ,create ects 
+ * 
+ */

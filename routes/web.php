@@ -30,3 +30,5 @@ Route::post('/cuadratica', [CuadraticaController::class, 'store'])->name('cuadra
 
 
 Route::resource('prueba', PruebaController::class);
+
+/**() 4 )no olvidame de poner la ruta */
